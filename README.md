@@ -28,7 +28,7 @@ It allows you to manage railway data such as employees, trains, and stations, as
 ## ⚙️ Setup Instructions
 1. **Clone or Download the Project**
    ```bash
-   git clone [https://github.com/your-username/railway-management-system.git](https://github.com/your-username/railway-management-system.git)
+    
    cd railway-management-system
    ```
 2. **Create the MySQL Database**
@@ -121,5 +121,5 @@ railway-management-system/
 
 ---
 
-## 📜 License
-This project is free to use for learning and educational purposes.
+
+
